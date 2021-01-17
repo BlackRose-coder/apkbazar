@@ -1,2 +1,2 @@
-# apkbazar
-Get apk from bazar store
+# apkbazaar
+Get apk from cafebazaar store
